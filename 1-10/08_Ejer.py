@@ -7,3 +7,10 @@ the power of 5.
 >> 32
 
 """
+
+num1 = 2        
+num2 = 5
+
+exponente = num1 ** num2
+
+print(exponente)

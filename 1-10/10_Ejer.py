@@ -7,3 +7,9 @@ Use string concatenation to join
 >> Python is fun
 
 """
+str1 = "Python"
+str2 = "is fun"
+
+resultado = str1 + " " + str2
+
+print(resultado)

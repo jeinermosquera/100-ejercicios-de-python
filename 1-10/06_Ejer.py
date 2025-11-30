@@ -7,3 +7,9 @@ and get the integer part.
 >> 3
 
 """
+num1 = 17 
+num2 = 5
+
+divicion =num1 // num2
+
+print(divicion)

@@ -7,3 +7,10 @@ of 25 divided by 7.
 >> 4
 
 """
+
+num1 = 25
+num2 = 7    
+
+modulo = num1 % num2    
+
+print(modulo)

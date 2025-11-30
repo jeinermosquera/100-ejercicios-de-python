@@ -7,3 +7,10 @@ Use the + operator to concatenate
 >> 'HelloWorld'
 
 """
+
+str1 = "Hello"
+str2 = "World"
+
+conexion = str1 + str2
+
+print(conexion)
