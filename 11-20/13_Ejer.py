@@ -3,6 +3,7 @@ EJERCICIO 13:
 Cuenta cuantas vocales hay en una palabra.
 """
 
+
 palabra = "Tacos al pastor"
 vocales = ["a", "e", "i", "o", "u"]
 contador = 0

@@ -6,7 +6,10 @@ palíndromo.
 
 palabra = input("Ingrese una palabra: ")
 
-if palabra == palabra[::-1]:
-    print(f"{palabra} es un palindromo.")
-else:
-    print(f"{palabra} no es un palindromo.")
+nueva = palabra[::-1]
+print(nueva)
+
+# if palabra == palabra[::-1]:
+#     print(f"{palabra} es un palindromo.")
+# else:
+#     print(f"{palabra} no es un palindromo.")
