@@ -4,11 +4,11 @@ Solicita dos palabras y determina
 si son iguales.
 """
 
-cadena1 = input("Ingrese una palabra: ")
+palabra1 = str(input("ingrese la palabra: "))
 
-cadena2 = input("Ingrese una palabra: ")
+palabra2 = str(input("ingrese la palabra: "))
 
-if cadena1 == cadena2:
-    print("Ambas cadenas son iguales")
+if palabra1 == palabra2:
+    print("Las palabras son iguales ")
 else:
-    print("Son diferentes")
+    print("Las palabras no son iguales")
